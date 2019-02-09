@@ -1,0 +1,32 @@
+{
+  "name": "lab10-vaxo199717",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "webpack": "^4.29.1",
+    "webpack-cli": "^3.2.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.0",
+    "style-loader": "^0.23.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/lab10-vaxo199717.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICT37008G1-LBK-fall-2018/lab10-vaxo199717/issues"
+  },
+  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/lab10-vaxo199717#readme"
+}
